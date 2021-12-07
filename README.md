@@ -1,4 +1,5 @@
 # Auton Survival Package
+<img align="right" width=50% src=https://www.cs.cmu.edu/~chiragn/auton_survival.png>
 
 Repository of reusable code utilities for Survival Analysis projects.
 
